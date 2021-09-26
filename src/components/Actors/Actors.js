@@ -14,7 +14,7 @@ const Actors = (props) => {
                     <h6 className="card-text text-muted">Date Of Birth: {dateOfBirth}</h6>
                     <h6 className="card-text text-muted">Salary: ${salary}</h6>
                     {/* add actor button */}
-                    <button style={{ backgroundColor: "#1A472A" }} className="btn text-white mt-4 d-block mx-auto " onClick={() => props.handleButton(props.actor)}><i className="fas fa-user"></i> Add Actor</button>
+                    <button style={{ backgroundColor: "rgb(0 66 52)" }} className="btn text-white mt-4 d-block mx-auto " onClick={() => props.handleButton(props.actor)}><i className="fas fa-user"></i> Add Actor</button>
                 </div>
             </div>
         </div>
