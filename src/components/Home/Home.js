@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import Actors from '../Actors/Actors';
 import Member from '../Member/Member';
+import './Home.css'
 
 const Home = () => {
 

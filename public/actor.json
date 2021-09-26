@@ -1,5 +1,6 @@
 [
     {
+        "id": 1,
         "name": "Daniel Radcliffe",
         "gender": "Male",
         "house": "Gryffindor",
@@ -8,6 +9,7 @@
         "salary": 356089
     },
     {
+        "id": 2,
         "name": "Emma Watson",
         "gender": "Female",
         "house": "Gryffindor",
@@ -16,6 +18,7 @@
         "salary": 227579
     },
     {
+        "id": 3,
         "name": "Rupert Grint",
         "gender": "Male",
         "house": "Gryffindor",
@@ -24,6 +27,7 @@
         "salary": 701388
     },
     {
+        "id": 4,
         "name": "Tom Felton",
         "gender": "Male",
         "house": "Slytherin",
@@ -32,6 +36,7 @@
         "salary": 471527
     },
     {
+        "id": 5,
         "name": "Dame Maggie Smith",
         "gender": "Female",
         "house": "Gryffindor",
@@ -40,6 +45,7 @@
         "salary": 245000
     },
     {
+        "id": 6,
         "name": "Robert Pattinson",
         "gender": "Male",
         "house": "Hufflepuff",
@@ -48,6 +54,7 @@
         "salary": 671527
     },
     {
+        "id": 7,
         "name": "Katie Leung",
         "gender": "Female",
         "house": "Ravenclaw",
@@ -56,6 +63,7 @@
         "salary": 70833
     },
     {
+        "id": 8,
         "name": "Alan Rickman",
         "gender": "Male",
         "house": "Slytherin",
@@ -64,6 +72,7 @@
         "salary": 224444
     },
     {
+        "id": 9,
         "name": "Matthew Lewis",
         "gender": "Male",
         "house": "Gryffindor",

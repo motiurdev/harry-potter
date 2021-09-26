@@ -1,0 +1,5 @@
+body {
+    background: url("/src/image/harry.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}

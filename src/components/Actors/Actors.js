@@ -10,11 +10,11 @@ const Actors = (props) => {
                 <img src={image} className="card-img-top actor-img" alt="..." />
                 <div className="card-body">
                     <h5 className="card-title">Name: {name}</h5>
-                    <h6 className="card-text">Gender: {gender}</h6>
-                    <h6 className="card-text">House: {house}</h6>
-                    <h6 className="card-text">Date Of Birth: {dateOfBirth}</h6>
-                    <h6 className="card-text">Salary: {salary}</h6>
-                    <button style={{ backgroundColor: "#1A472A" }} className="btn text-white mt-4 d-block mx-auto" onClick={() => props.handleButton(props.actor)}><i className="fas fa-user"></i> Add Actor</button>
+                    <h6 className="card-text text-muted">Gender: {gender}</h6>
+                    <h6 className="card-text text-muted">House: {house}</h6>
+                    <h6 className="card-text text-muted">Date Of Birth: {dateOfBirth}</h6>
+                    <h6 className="card-text text-muted">Salary: {salary}</h6>
+                    <button style={{ backgroundColor: "#1A472A" }} className="btn text-white mt-4 d-block mx-auto " onClick={() => props.handleButton(props.actor)}><i className="fas fa-user"></i> Add Actor</button>
                 </div>
             </div>
         </div>
