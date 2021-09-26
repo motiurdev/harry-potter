@@ -8,6 +8,7 @@ const Home = () => {
     const [actors, setActors] = useState([])
     const [member, setMember] = useState([])
 
+    // get actors data
     useEffect(() => {
         fetch("./actor.json")
             .then(res => res.json())
@@ -22,6 +23,7 @@ const Home = () => {
     return (
         <div className="container">
             <div className="row my-3">
+                {/* actors column */}
                 <div className="col-md-9">
                     <div className="row">
                         {
