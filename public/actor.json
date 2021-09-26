@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Daniel Radcliffe",
+        "gender": "Male",
+        "house": "Gryffindor",
+        "dateOfBirth": "31-07-1980",
+        "image": "http://hp-api.herokuapp.com/images/harry.jpg",
+        "salary": 356089
+    },
+    {
+        "name": "Emma Watson",
+        "gender": "Female",
+        "house": "Gryffindor",
+        "dateOfBirth": "19-09-1979",
+        "image": "http://hp-api.herokuapp.com/images/hermione.jpeg",
+        "salary": 227579
+    },
+    {
+        "name": "Rupert Grint",
+        "gender": "Male",
+        "house": "Gryffindor",
+        "dateOfBirth": "01-03-1980",
+        "image": "http://hp-api.herokuapp.com/images/ron.jpg",
+        "salary": 701388
+    },
+    {
+        "name": "Tom Felton",
+        "gender": "Male",
+        "house": "Slytherin",
+        "dateOfBirth": "05-06-1980",
+        "image": "http://hp-api.herokuapp.com/images/draco.jpg",
+        "salary": 471527
+    },
+    {
+        "name": "Dame Maggie Smith",
+        "gender": "Female",
+        "house": "Gryffindor",
+        "dateOfBirth": "04-10-1925",
+        "image": "http://hp-api.herokuapp.com/images/mcgonagall.jpg",
+        "salary": 245000
+    },
+    {
+        "name": "Robert Pattinson",
+        "gender": "Male",
+        "house": "Hufflepuff",
+        "dateOfBirth": "13-05-1986",
+        "image": "http://hp-api.herokuapp.com/images/cedric.png",
+        "salary": 671527
+    },
+    {
+        "name": "Katie Leung",
+        "gender": "Female",
+        "house": "Ravenclaw",
+        "dateOfBirth": "08-08-1987",
+        "image": "http://hp-api.herokuapp.com/images/cho.jpg",
+        "salary": 70833
+    },
+    {
+        "name": "Alan Rickman",
+        "gender": "Male",
+        "house": "Slytherin",
+        "dateOfBirth": "09-01-1960",
+        "image": "http://hp-api.herokuapp.com/images/snape.jpg",
+        "salary": 224444
+    },
+    {
+        "name": "Matthew Lewis",
+        "gender": "Male",
+        "house": "Gryffindor",
+        "dateOfBirth": "30-07-1980",
+        "image": "http://hp-api.herokuapp.com/images/neville.jpg",
+        "salary": 83333
+    }
+]
