@@ -3,7 +3,7 @@
 
 
 
-### Live website
+## Live website
 
 Demo
 Link: https://harry-potter-motiurdev.netlify.app/
@@ -29,6 +29,6 @@ You can learn React & Bootstrap from this project
   
 ## Screenshots
 
-![App Screenshot](https://i.ibb.co/kHfNn24/Screenshot.png)
+![App Screenshot](https://i.ibb.co/BncFCzY/potter.png)
 
   
